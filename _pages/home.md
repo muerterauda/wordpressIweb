@@ -4,7 +4,7 @@ post_title: Home
 author: GRJuanjo
 post_excerpt: ""
 layout: page
-permalink: http://localhost/trabajo/
+permalink: http://localhost/t/
 published: true
 post_date: 2016-11-06 00:11:41
 ---
